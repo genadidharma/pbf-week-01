@@ -1,2 +1,2 @@
-let [wifes] = ['Ratna', 'Bunga', 'Tiara']
+let [, , wifes] = ['Ratna', 'Bunga', 'Tiara']
 alert(wifes)
